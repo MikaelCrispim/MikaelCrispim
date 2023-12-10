@@ -2,9 +2,6 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Future backend developer! <br><br> I am studying systems development at a technical school, I am passionate about programming languages ​​and I like solving problems using technology. </p>&nbsp;
- 
- &nbsp;
- &nbsp;
 
 
 ## My Skills
